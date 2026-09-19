@@ -200,8 +200,8 @@ int BSTreeInt::sumUpThePath(BSTNodeInt* root, int destKey)
 	if (curr == nullptr)
 		return -1;
 	
-	if (root->key == destKey)
-		return root->key;
+	if (curr->key == destKey)
+		return curr->key;
 
 	if (curr->key > destKey)
 	{
