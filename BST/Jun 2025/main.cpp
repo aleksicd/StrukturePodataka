@@ -15,5 +15,5 @@ void main()
 	tree.inorder();
 	cout << endl;
 
-	cout << "Najdublji cvor: " << tree.getDeepest()->key;
+	cout << "Broj obrisanih cvorova: " << tree.deleteLeafs();
 }
