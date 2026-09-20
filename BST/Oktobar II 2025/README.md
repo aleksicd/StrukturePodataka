@@ -1,0 +1,1 @@
+Napisati funkciju uređenog binarnog stabla BSTNode* getDeepestEvenParent(BSTNode* root) koja nalazi parni čvor koji nije list a koji se nalazi najdublje u stablu. Dodati rekurzivnu funkciju sa potrebnim argumentima koju poziva tražena funkcija. Zabranjeno je korišćenje globalnih promenljivih. Voditi računa o efikasnosti.
