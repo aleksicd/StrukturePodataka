@@ -1,0 +1,1 @@
+Napisati rekurzivnu funkciju int deleteSingleLeafParents(BSTNodeInt* root) koja briše sve čvorove koji imaju samo jednog direktnog potomka koji je list i vraća ukupan broj tako obrisanih čvorova. Dozvoljeno je koristiti pomoćne funkcije, ali nije dozvoljeno dodavati promenljive članice klase čvor i stablo, niti globalne promenljive. Voditi računa o efikasnosti rešenja.
