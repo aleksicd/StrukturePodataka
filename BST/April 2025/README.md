@@ -1,0 +1,1 @@
+Napisati funkciju BSTNode* findDeepestLeaf(BSTNode* root) koja u dinamičkom binarnom stablu određuje list koji je na najvećoj dubini u stablu. Napisati rekurzivnu funkciju sa potrebnim argumentima, članicu klase binarnog stabla koja implementira traženu funkcionalnost, a koju poziva navedena funkcija. Voditi računa o efikasnosti.
